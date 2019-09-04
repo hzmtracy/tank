@@ -29,13 +29,4 @@ build/
 
 ### VS Code ###
 .vscode/
-/spring-aop/.mvn/wrapper/maven-wrapper.jar
-/spring-aop/.mvn/wrapper/maven-wrapper.properties
-/spring-aop/.mvn/wrapper/MavenWrapperDownloader.java
-/spring-aop/.mvn/wrapper/maven-wrapper.jar
-/spring-aop/mvnw
-/spring-aop/mvnw.cmd
-/spring-aop/.mvn/wrapper/maven-wrapper.jar
-.gitignore
-pom.xml
-src/
+/.mvn/wrapper/maven-wrapper.jar
