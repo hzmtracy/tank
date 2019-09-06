@@ -34,6 +34,5 @@ build/
 /spring-aop/mvnw
 /spring-aop/mvnw.cmd
 /spring-aop/.mvn/wrapper/maven-wrapper.jar
-.gitignore
-pom.xml
-src/
+
+
