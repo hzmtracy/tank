@@ -6,14 +6,13 @@ import java.lang.annotation.RetentionPolicy;
 import java.lang.annotation.Target;
 
 /**
- * @author hzm
- * @Date 2019-09-03
- * @version V1.0
  * @description: TODO
+ * @author hzm
+ * @Date 2019-09-09
+ * @version V1.0
  */
-@Target(ElementType.METHOD)
+
+@Target(ElementType.TYPE)
 @Retention(RetentionPolicy.RUNTIME)
-public @interface ServiceMethodAspectAnnotation {
-
-
+public @interface SharableAnnotation {
 }
