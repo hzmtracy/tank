@@ -41,7 +41,6 @@ public class DemoServiceMethodAspectProcessor extends AbstractMethodAspectProces
 
     /**
      * 构建抛出异常时的返回值<br/>
-     * 不知道起什么名字好，如果大家有好的建议，欢迎留言
      *
      * @param point 方法的连接点
      * @param e     抛出的异常

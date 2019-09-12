@@ -28,7 +28,7 @@ public abstract class AbstractMethodAspectProcessor<R> implements MethodAspectPr
         MethodSignature signature = (MethodSignature) point.getSignature();
         // 获得方法
         Method method = signature.getMethod();
-        // 获得方法的 @MethodAspectAnno 注解
+        // 获得方法的 @MethodAspectAnnotation 注解
         MethodAspectAnnotation methodAspectAnnotation = method.getAnnotation(MethodAspectAnnotation.class);
         // 获得方法切面处理器的 Class
         Class<? extends MethodAspectProcessor> processorType = methodAspectAnnotation.value();
