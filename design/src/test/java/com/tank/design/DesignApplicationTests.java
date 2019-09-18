@@ -1,6 +1,10 @@
 package com.tank.design;
 
-import com.tank.design.web.design.*;
+import com.tank.design.web.design.callback.EricStudent;
+import com.tank.design.web.design.callback.Student;
+import com.tank.design.web.design.callback.Teacher;
+import com.tank.design.web.design.observer.OfficialAccount;
+import com.tank.design.web.design.observer.User;
 import org.junit.Test;
 
 //@RunWith(SpringRunner.class)

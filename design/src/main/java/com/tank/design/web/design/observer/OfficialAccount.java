@@ -1,4 +1,4 @@
-package com.tank.design.web.design;
+package com.tank.design.web.design.observer;
 
 import java.util.Observable;
 
