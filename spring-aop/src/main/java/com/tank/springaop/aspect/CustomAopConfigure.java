@@ -5,7 +5,7 @@ import org.springframework.context.annotation.Configuration;
 import org.springframework.context.annotation.EnableAspectJAutoProxy;
 
 /**
- * @description: TODO
+ * @description: 注册注解
  * @author hzm
  * @Date 2019-09-09
  * @version V1.0
