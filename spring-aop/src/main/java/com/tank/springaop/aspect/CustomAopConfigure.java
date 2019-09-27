@@ -13,5 +13,5 @@ import org.springframework.context.annotation.EnableAspectJAutoProxy;
 @Configuration
 @EnableAspectJAutoProxy
 @ComponentScan("com.tank.springaop.aspect")
-public class CustomAopConfigurer {
+public class CustomAopConfigure {
 }
