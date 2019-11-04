@@ -4,3 +4,8 @@ server:
 spring:
   profiles:
     active: dev
+
+logging:
+  level:
+    root: info
+  file: ${user.home}/user/hzm/logs/hzm.log
